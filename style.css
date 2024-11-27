@@ -1,0 +1,41 @@
+.dashboard-container {
+    width: 100%;
+    margin: 50px auto;
+    background-color:aqua;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+.dashboard-container h1 {
+    font-size: 60px;
+    color: #41502e;
+    margin-bottom: 20px;
+}
+
+.user-info, .alert-section, .prescription-section {
+    margin-bottom: 30px;
+}
+
+button#logoutBtn {
+    background-color: #e74c3c;
+    width: 100%;
+    font-size: 15px;
+}
+
+button#logoutBtn:hover {
+    background-color: #c0392b;
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+}
+li{
+    font-size: 20px;
+}
